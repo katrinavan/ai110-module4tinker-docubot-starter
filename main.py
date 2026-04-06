@@ -103,7 +103,7 @@ def run_retrieval_only_mode(bot):
         print("=" * 60)
         print(f"Question: {query}\n")
         answer = bot.answer_retrieval_only(query)
-        print("Retrieved snippets:")
+        print("Answer:")
         print(answer)
         print()
 
