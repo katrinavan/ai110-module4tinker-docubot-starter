@@ -4,7 +4,7 @@ Core DocuBot class responsible for:
 - Building a simple retrieval index (Phase 1)
 - Retrieving relevant snippets (Phase 1)
 - Supporting retrieval only answers
-- Supporting RAG answers when paired with Gemini (Phase 2)
+- Supporting RAG answers when paired with Gemini (Phase 2) 
 """
 
 import os

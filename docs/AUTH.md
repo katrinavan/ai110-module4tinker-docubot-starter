@@ -24,8 +24,8 @@ The token payload includes:
 Requests are validated by the `require_auth` decorator. This decorator ensures that:
 
 1. A token is present in the Authorization header  
-2. The token signature is valid  
-3. The token has not expired  
+2. The token signature is valid 
+3. The token has not expired 
 4. The user has permission to access the requested resource  
 
 If validation fails, the client receives a 401 Unauthorized response.

@@ -98,6 +98,6 @@ Developers often encounter confusion between SQLite and PostgreSQL behavior. In 
 
 - SQLite allows many implicit type conversions  
 - SQLite ignores certain constraint violations that PostgreSQL enforces  
-- Timestamps may appear in different formats across engines  
+- Timestamps may appear in different formats across engines 
 
 Always test schema related changes using both database backends when possible.

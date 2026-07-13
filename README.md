@@ -65,7 +65,7 @@ This prints simple retrieval hit rates for sample queries.
 You will primarily work in:
 
 - `docubot.py`  
-  Implement or improve the retrieval index, scoring, and snippet selection.
+  Implement or improve the retrieval index, scoring, and snippet selection. 
 
 - `llm_client.py`  
   Adjust the prompts and behavior of LLM responses.

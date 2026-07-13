@@ -129,7 +129,7 @@ List at least three limitations of your DocuBot system.
 
 1. The scoring is based on simple keyword overlap, so it can miss meaning when the wording is different.
 2. The system does not understand synonyms, paraphrases, or deeper semantic relationships.
-3. The retrieval index is very basic and only tracks filenames, not richer metadata such as section titles or positions.
+3. The retrieval index is very basic and only tracks filenames, not richer metadata such as section titles or positions. 
 
 **Future improvements**  
 List two or three changes that would most improve reliability or usefulness.

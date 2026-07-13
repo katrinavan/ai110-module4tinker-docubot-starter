@@ -104,7 +104,7 @@ def run_retrieval_only_mode(bot):
         print(f"Question: {query}\n")
         answer = bot.answer_retrieval_only(query)
         print("Answer:")
-        print(answer)
+        print(answer) 
         print()
 
 

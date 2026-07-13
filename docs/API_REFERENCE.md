@@ -9,7 +9,7 @@ This document lists the main API endpoints available in the sample application. 
     ````
 
 ## Authentication Endpoints
-
+ 
 ### POST /api/login
 
 Authenticates a user and returns a short lived access token.
